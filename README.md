@@ -13,6 +13,6 @@ In order to run the solution:
 ```
 .\SOAJAR\SOAModelESB.jar
 .\SOAJAR\SOAJMSTestClient.jar
-.\SOA.bat - plik uruchomieniowy (w systemach Linux należy na bazie SOA.bat utworzyć plik uruchomieniowy np. SOA.sh)
+.\SOA.bat - executable file (on Linux systems you shuold create a startup file, eg SOA.sh  basis on SOA.bat)
 ```
 3. run batch (in eviroment Windows - SOA.bat)
